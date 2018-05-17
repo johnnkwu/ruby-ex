@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to the <font color='green'>(INF)41 sample application</font> on OpenShift</h1>
+            <h1>Welcome to the <font color='blue'>(INF)41 sample application</font> on OpenShift</h1>
           </hgroup>
 
 
